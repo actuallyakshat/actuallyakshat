@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codexakshat" target="blank"><img src="https://img.shields.io/twitter/follow/codexakshat?logo=twitter&style=for-the-badge" alt="codexakshat" /></a> </p>
 
-- 🔭 I’m currently working on [Movie Mate](https://github.com/om-chauhan1/MovieMate)
+- 🔭 I’m currently working on [Cinevault](https://cinevault-app.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
