@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Dubey</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallyakshat&label=Profile%20views&color=0e75b6&style=flat" alt="actuallyakshat" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codexakshat" target="blank"><img src="https://img.shields.io/twitter/follow/codexakshat?logo=twitter&style=for-the-badge" alt="codexakshat" /></a> </p>
 
-- 🔭 I’m currently working on [Cinevault](https://cinevault-app.vercel.app)
+- 🔭 I’m currently working on [Wishly](https://github.com/actuallyakshat/wishly)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
